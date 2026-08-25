@@ -11,3 +11,12 @@ print("after the empty line")
 
 #to create a tab space
 print("Hello\tworld") #to create a tab space
+
+#using "" in single print line
+print("Your Learning Path:\n\t-Python Basics\n\t-Data Engineering\n\t-AI")
+
+#using triple quotes to print the same output as above
+print("""Your Learning Path:
+\t-Python Basics
+\t-Data Engineering
+\t-AI""")
