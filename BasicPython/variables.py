@@ -1,0 +1,4 @@
+name = "Paul"
+age = 25
+
+print("My name is " + name + " and I am " + str(age) + " years old.")
